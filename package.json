@@ -1,0 +1,15 @@
+{
+  "name": "firebaseappfest",
+  "version": "1.0.0",
+  "description": "Firebase App Fest Hackathon App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suraj Kumar Jana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "firebase": "^4.1.3"
+  }
+}
